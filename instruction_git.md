@@ -1,6 +1,6 @@
 # **Инструкция по работе в Git**
 
-![Логотип Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png)
+![Логотип Git](640px-Git-logo.svg.png)
 
 **Git** - это одна из самых популярных программ по контролю версий. Её создателем является [Линус Торвальдс](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81,_%D0%9B%D0%B8%D0%BD%D1%83%D1%81).
 
